@@ -1,5 +1,5 @@
-# CVQKD \(\epsilon\) Security
-This document presents a strategy for an \(\epsilon\)-security proof of quantum key distribution. In a classical setting, an \(\epsilon\)-security proof derives the probability \(\epsilon\) of an attacker to succesfully guess chosen information from an encryption oracle. Several security models can be used for such a security proof. The transfer from a classical cryptographic \(\epsilon\)-security proof to a quantum setting is still ongoing research which is needed for establishing frameworks for quantum security device certification.
+# CVQKD $$\epsilon$$ Security
+This document presents a strategy for an $$\epsilon$$-security proof of quantum key distribution. In a classical setting, an $$\epsilon$$-security proof derives the probability $$\epsilon$$ of an attacker to succesfully guess chosen information from an encryption oracle. Several security models can be used for such a security proof. The transfer from a classical cryptographic $$\epsilon$$-security proof to a quantum setting is still ongoing research which is needed for establishing frameworks for quantum security device certification.
 
 ## What is QKD?
 Quantum key distribution protocols are cryptographic key exchange protocols which leverage quantum mechanical principles. This distinguishes them from the cryptographic key exchange protocols (asymmetric cryptography) which are designed as mathematical algorithms.
